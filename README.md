@@ -1,2 +1,5 @@
-# Computational_Art_Lab
-Computational Art Lab
+# Computational Art Lab
+
+Resources for the Computational Art Lab
+
+Prompt 
